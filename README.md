@@ -5,17 +5,17 @@ This repository includes original research, course-based implementations and pra
 
 
 
-## 🔍 Project Highlights
+## Project Highlights
 
 ### NLP
 - **Sentiment Analysis**: SVM vs Logistic Regression on Amazon reviews using TF-IDF, class balancing.
 - **Abstractive Summarization**: Modified Pointer-Generator network with novelty loss for better abstraction.  
-  🔗 [arXiv Preprint](https://arxiv.org/abs/2002.10959)
+   [arXiv Preprint](https://arxiv.org/abs/2002.10959)
 
 ### CV
 - **Cartoon vs Sketch Classification**: CNN + ML comparison on IIIT-CFW dataset.  
 - **Semantic Segmentation**: Published method using SEEDS + ForkNet for superpixel-aware segmentation.  
-  🔗 [Conference Paper](https://www.researchgate.net/publication/338685909_Two_Stage_Semantic_Segmentation_by_SEEDS_and_Fork_Net)
+   [Conference Paper](https://www.researchgate.net/publication/338685909_Two_Stage_Semantic_Segmentation_by_SEEDS_and_Fork_Net)
 
 
 ## Technologies Used
