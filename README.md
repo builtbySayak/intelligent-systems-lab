@@ -17,11 +17,6 @@ This repository includes original research, course-based implementations and pra
 - **Semantic Segmentation**: Published method using SEEDS + ForkNet for superpixel-aware segmentation.  
   🔗 [Conference Paper](https://www.researchgate.net/publication/338685909_Two_Stage_Semantic_Segmentation_by_SEEDS_and_Fork_Net)
 
-### SDE
-- Backend development with `FastAPI`, `Docker`, and `PostgreSQL`
-- Custom ML service APIs and university admission prediction pipelines  
-- Some source code and deployment configs are internal and not publicly shared
-
 
 ## Technologies Used
 
