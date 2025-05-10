@@ -18,7 +18,7 @@ Tools: PyTorch, CNN/DailyMail Dataset, ROUGE Evaluation
 Link to the paper: https://arxiv.org/abs/2002.10959
 
 
-# Sentimeent Analysis on Amazon Product Reviews #
+# Sentiment Analysis on Amazon Product Reviews #
 
 Techniques Used:
   - TF-IDF based feature extraction
