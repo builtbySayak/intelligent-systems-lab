@@ -1,4 +1,4 @@
-# 🧠 Mental Health Classifier
+# Mental Health Classifier
 
 This repository contains my MSc project on **Detecting and Interpreting Mental Health Distress in UK University Reddit Posts**.  
 The system classifies Reddit-style posts into categories: Academic Stress, Relationship Issues, Existential Crisis, Social Isolation, and Neutral.  
@@ -48,10 +48,10 @@ It integrates both **classical ML models** and **transformer-based models** into
 ---
 
 ## Key Features
-- 📊 Multiple models: Logistic Regression, SVM, XGBoost, DistilBERT, DeBERTa, and Stacked Ensemble  
-- 🌐 Streamlit Web App: Interactive predictions with confidence scores, word clouds, and ROC curves  
-- 🔮 Robust classification of real Reddit posts  
-- 📈 Evaluation metrics: Accuracy, F1-score, ROC-AUC, confusion matrices  
+-  Multiple models: Logistic Regression, SVM, XGBoost, DistilBERT, DeBERTa, and Stacked Ensemble  
+-  Streamlit Web App: Interactive predictions with confidence scores, word clouds, and ROC curves  
+-  Robust classification of real Reddit posts  
+-  Evaluation metrics: Accuracy, F1-score, ROC-AUC, confusion matrices  
 
 ---
 
@@ -62,7 +62,7 @@ It integrates both **classical ML models** and **transformer-based models** into
 
 ---
 
-📄 **Citation**:  
+ **Citation**:  
 Sayak Chakraborty,  
 *"Detecting and Interpreting Mental Health Distress in UK University Reddit Posts"*,  
 MSc Project, Queen Mary University of London, 2025.  
