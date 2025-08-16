@@ -6,7 +6,7 @@ It integrates both **classical ML models** and **transformer-based models** into
 
 ---
 
-## Logistic Regression ( LR)
+## Logistic Regression (LR)
 **Techniques Used:**
 - TF-IDF based feature extraction with unigram + bigram features  
 - Regularized Logistic Regression for binary and multi-class classification  
@@ -34,7 +34,7 @@ It integrates both **classical ML models** and **transformer-based models** into
 
 ---
 
-## Stacked Ensemble (LR + SVM + RoBERTa)
+## Stacked Ensemble (ML Models/ Transformer)
 **Techniques Used:**
 - Combined predictions from Logistic Regression, SVM, and RoBERTa  
 - Majority voting with weighted confidence scores  
