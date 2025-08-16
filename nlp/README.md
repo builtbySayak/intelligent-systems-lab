@@ -29,3 +29,23 @@ Results:
   - Visual analysis using confusion matrices and precision/recall curves
 Tools: Python,Scikit-learn,PyTorch,Transformers,NLTK,Matplotlib,Pandas,Seaborn
 Paper and Code Available.
+
+# Mental Health Classifier (MSc Project – 2025)
+
+This project classifies Reddit-style posts related to **UK university students’ mental health** into categories:
+
+- Academic Stress  
+- Relationship Issues  
+- Existential Crisis  
+- Social Isolation  
+- Neutral  
+
+The web app is built with **Streamlit** and integrates multiple **ML and Transformer models**.
+
+
+## How to Run
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/builtbySayak/mental-health-classifier.git
+cd mental-health-classifier
