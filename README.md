@@ -11,6 +11,10 @@ This repository includes original research, course-based implementations and pra
 - **Sentiment Analysis**: SVM vs Logistic Regression on Amazon reviews using TF-IDF, class balancing.
 - **Abstractive Summarization**: Modified Pointer-Generator network with novelty loss for better abstraction.  
    [arXiv Preprint](https://arxiv.org/abs/2002.10959)
+- **Mental Health Classifier**  
+  Detects emotional distress in Reddit posts using TF-IDF, XGBoost, RoBERTa, and a Stacked Ensemble.  
+  Includes web deployment with Streamlit for real-time text classification.  
+
 
 ### CV
 - **Cartoon vs Sketch Classification**: CNN + ML comparison on IIIT-CFW dataset.  
