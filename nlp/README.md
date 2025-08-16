@@ -30,7 +30,7 @@ Results:
 Tools: Python,Scikit-learn,PyTorch,Transformers,NLTK,Matplotlib,Pandas,Seaborn
 Paper and Code Available.
 
-# Mental Health Classifier (MSc Project – 2025)
+# Mental Health Classifier
 
 This project classifies Reddit-style posts related to **UK university students’ mental health** into categories:
 
